@@ -54,3 +54,5 @@ Else
 [Geeks 4 Geeks](http://www.geeksforgeeks.org/backtracking-set-1-the-knights-tour-problem/)
 
 [A very interesting introduction to backtracking](https://www.hackerearth.com/practice/basic-programming/recursion/recursion-and-backtracking/tutorial/)
+
+I was failed in one of the technical process during the interview instead of disappointed I have decided to start working on algorithm so I can make myself ready for thenext time.
