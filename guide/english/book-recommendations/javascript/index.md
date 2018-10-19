@@ -5,7 +5,7 @@ title: Books on JavaScript
 
 #### Eloquent JavaScript
 
-One of the best books on JavaScript. A must for both, beginners and intermediate programmers, who code in JavaScript. The best part is that the e-book is available for free.
+One of the best books on JavaScript. A must for both, beginners and intermediate programmers who code in JavaScript. The best part is that the e-book is available for free.
 
 - [E-book](https://eloquentjavascript.net/)(free)
 - [Amazon](https://www.amazon.com/gp/product/1593275846/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1593275846&linkCode=as2&tag=marijhaver-20&linkId=VPXXXSRYC5COG5R5)
@@ -19,7 +19,7 @@ Six book series by Kyle Simpson. In-depth series on every aspect of JavaScript.
 
 #### JavaScript: The Good Parts
 
-Book by the "grandfather" of JavaScript, Douglas Crockford. He discusses both the "good" and "bad" aspects of JavaScript.
+Book by Douglas Crockford "the grand father" of JavaScript. He discusses both the "good" and "bad" aspects of JavaScript.
 
 - [Amazon](https://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742)
 
