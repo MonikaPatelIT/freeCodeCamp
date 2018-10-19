@@ -1,9 +1,9 @@
 ---
 title: Tables
 ---
-### Defining an HTML Table
+### Defining a HTML Table
 
-An HTML table is defined with the `<table>` tag.
+A HTML table is defined with the `<table>` tag.
 
 Each table row is defined with the `<tr>` tag. Inside a row there may be table headers or table data.
 
